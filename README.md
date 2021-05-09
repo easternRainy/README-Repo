@@ -10,6 +10,12 @@ This repo serves as a guide of public projects in my GitHub.
 
 ## Data Acquisition
 
-## Full Stack Development
+## Data Structures and Algorithms
+- [LeetCode](https://github.com/easternRainy/LeetCode)
+
+## Web Development
+
+## Android Development
 
 ## Security and Cryptography
+
