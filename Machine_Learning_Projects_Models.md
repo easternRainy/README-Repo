@@ -16,7 +16,4 @@
 - [PCA Data Science Mini Project](https://colab.research.google.com/drive/1JpZmFSTI4fx8KGMPCxYkKBmWp_skjHMj?authuser=1)
 ## Clustering
 
-## K Nearest Neighbors
-- [Clustering Mini Project](https://colab.research.google.com/drive/1F2SxKZ4-a_Eu8j9Wbeby4ipnNOZQ1Ryy?authuser=1)
-
 

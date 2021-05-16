@@ -12,3 +12,5 @@
 - [Insurance Analysis](https://github.com/christabellecp/Regression_Analysis_Insurance)
 
 ## Clustering
+- [Clustering Mini Project](https://colab.research.google.com/drive/1F2SxKZ4-a_Eu8j9Wbeby4ipnNOZQ1Ryy?authuser=1)
+
